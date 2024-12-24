@@ -16,7 +16,7 @@ setuptools.setup(
         "Operating System :: OS Independent"
     ],
     install_requires=[
-        'pillow==9.1.0',
-        'requests==2.25.1',
+        'pillow==11.0.0',
+        'requests==2.32.3',
     ],
 )
